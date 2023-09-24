@@ -265,6 +265,19 @@ kbd {
   vertical-align: middle;
 }
 
+sub, sup {
+  font-size: smaller;
+  line-height: 1.0;
+}
+
+sub {
+  vertical-align: sub;
+}
+
+sup {
+  vertical-align: super;
+}
+
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
